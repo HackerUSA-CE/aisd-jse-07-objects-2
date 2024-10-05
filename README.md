@@ -166,4 +166,4 @@ In this project, you learned how to modify objects in JavaScript by adding new p
 
 💾 **Not something to copy and paste** 💾
 
-**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-08-objects-2/tree/solution) (link not shown).
+**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-07-objects-2/tree/solution) (link not shown).
