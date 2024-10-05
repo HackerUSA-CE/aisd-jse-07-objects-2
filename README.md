@@ -3,7 +3,7 @@
 ![Screenshot of the finished webpage](assets/images/complete.png)
 
 ## Description 📄
-In this project, you will continue practicing working with objects in JavaScript. Building on the previous example, you will modify the `person` object by adding new fields, updating existing values, and deleting properties. This hands-on experience will enhance your understanding of object manipulation and data management in JavaScript.
+In this project, you will continue practicing working with objects in JavaScript. Building on the previous example we created in our "ObjectsPartOne" project, you will modify the `person` object by adding new fields, updating existing values, and deleting properties. This hands-on experience will enhance your understanding of object manipulation and data management in JavaScript.
 
 ## Expected Project Structure 🏗️
 Your project will have the following structure:
@@ -69,7 +69,7 @@ person.favoriteColor = "blue";
 console.log("Updated Person:", person); // Expected output: person object with new properties
 ```
 
-- [ ] Run your JavaScript file to see the updated object.
+- [ ] Run your JavaScript file in the terminal with the command `node index.js` to see the updated object.
 
 **Expected Output:**
 ```
@@ -101,7 +101,7 @@ person.occupation = "Senior Software Developer"; // Update occupation
 console.log("Modified Person:", person); // Expected output: person object with modified values
 ```
 
-- [ ] Run your JavaScript file to see the result.
+- [ ] Run your JavaScript file in the terminal with the command `node index.js` to see the result.
 
 **Expected Output:**
 ```
@@ -131,7 +131,7 @@ delete person.employed;
 console.log("After Deletion:", person); // Expected output: person object without the employed property
 ```
 
-- [ ] Run your JavaScript file to see the result.
+- [ ] Run your JavaScript file in the terminal with the command `node index.js` to see the result.
 
 **Expected Output:**
 ```
@@ -150,7 +150,7 @@ After Deletion: {
 **Explanation:**
 - The `delete` operator removes the `employed` property from the `person` object, demonstrating how to remove properties when they are no longer needed.
 
-## 6. **Testing Your Knowledge**
+## 6. **Test Your Knowledge**
 Consider adding other properties to the `person` object, such as `married` (boolean) or `pets` (array of strings), and practice accessing, modifying, and deleting these properties.
 
 ## 7. **Commit and Push to GitHub**
@@ -166,4 +166,4 @@ In this project, you learned how to modify objects in JavaScript by adding new p
 
 💾 **Not something to copy and paste** 💾
 
-**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-08-objects-2/tree/solution) (link not shown).
+**Note:** This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-07-objects-2/tree/solution) (link not shown).
