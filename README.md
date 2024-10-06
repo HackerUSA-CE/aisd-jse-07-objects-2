@@ -3,7 +3,7 @@
 ![Screenshot of the finished webpage](assets/images/complete.png)
 
 ## Description 📄
-In this project, you will continue practicing working with objects in JavaScript. Building on the previous example we created in our "ObjectsPartOne" project, you will modify the `person` object by adding new fields, updating existing values, and deleting properties. This hands-on experience will enhance your understanding of object manipulation and data management in JavaScript.
+In this lab, you will continue practicing working with objects in JavaScript. Building on the previous example we created in our "ObjectsPartOne" project, you will modify the `person` object by adding new fields, updating existing values, and deleting properties. This hands-on experience will enhance your understanding of object manipulation and data management in JavaScript.
 
 ## Expected Project Structure 🏗️
 Your project will have the following structure:
